@@ -1,0 +1,46 @@
+thisform.Pageframe1.page1.commandgroup3.Height	=158
+thisform.Pageframe1.page1.commandgroup3.Left	=1
+thisform.Pageframe1.page1.commandgroup3.top	    =392
+thisform.Pageframe1.page1.commandgroup3.Width	=619
+
+
+thisform.Pageframe1.page1.commandgroup2.CmdPrimero.fontsize =20
+thisform.Pageframe1.page1.commandgroup2.CmdPrimero.Height	=159
+thisform.Pageframe1.page1.commandgroup2.CmdPrimero.Left	    =0
+thisform.Pageframe1.page1.commandgroup2.CmdPrimero.top	    =0
+thisform.Pageframe1.page1.commandgroup2.CmdPrimero.Width	=89
+
+
+thisform.Pageframe1.page1.commandgroup2.CmdAnterior.fontsize =20
+thisform.Pageframe1.page1.commandgroup2.CmdAnterior.Height	=159
+thisform.Pageframe1.page1.commandgroup2.CmdAnterior.Left	=88
+thisform.Pageframe1.page1.commandgroup2.CmdAnterior.top	    =0
+thisform.Pageframe1.page1.commandgroup2.CmdAnterior.Width	=89
+
+
+thisform.Pageframe1.page1.commandgroup2.CmdSiguiente.fontsize =20
+thisform.Pageframe1.page1.commandgroup2.CmdSiguiente.Height	=159
+thisform.Pageframe1.page1.commandgroup2.CmdSiguiente.Left	=176
+thisform.Pageframe1.page1.commandgroup2.CmdSiguiente.top	=0
+thisform.Pageframe1.page1.commandgroup2.CmdSiguiente.Width	=89
+
+
+thisform.Pageframe1.page1.commandgroup2.CmdUltimo.fontsize =20
+thisform.Pageframe1.page1.commandgroup2.CmdUltimo.Height	=159
+thisform.Pageframe1.page1.commandgroup2.CmdUltimo.Left	=265
+thisform.Pageframe1.page1.commandgroup2.CmdUltimo.top	=0
+thisform.Pageframe1.page1.commandgroup2.CmdUltimo.Width	=89
+
+
+thisform.Pageframe1.page1.commandgroup2.CmdBorrar.fontsize =20
+thisform.Pageframe1.page1.commandgroup2.CmdBorrar.Height	=159
+thisform.Pageframe1.page1.commandgroup2.CmdBorrar.Left	=353
+thisform.Pageframe1.page1.commandgroup2.CmdBorrar.top	=0
+thisform.Pageframe1.page1.commandgroup2.CmdBorrar.Width	=89
+
+
+thisform.Pageframe1.page1.commandgroup2.CmdCerrar.fontsize =20
+thisform.Pageframe1.page1.commandgroup2.CmdCerrar.Height	=159
+thisform.Pageframe1.page1.commandgroup2.CmdCerrar.Left	=353
+thisform.Pageframe1.page1.commandgroup2.CmdCerrar.top	=0
+thisform.Pageframe1.page1.commandgroup2.CmdCerrar.Width	=442

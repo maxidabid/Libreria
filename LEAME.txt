@@ -1,0 +1,14 @@
+Este es un programa con las funciones básicas de Control de Stock y Facturación, su codificación no es
+sofisticada pero, es efectiva. El programita en sí no es grande en tamaño, la ayuda que tiene si lo es, 
+para comprender su funcionamiento desde el programa o fuera de él ejecute la ayuda; también posee 
+ayuda en línea, es decir, si al momento de estar realizando una venta y presiona la tecla [F1], la ayuda 
+mostrará el tema relacionado con lo que está haciendo en ese momento o sea la venta.
+La ayuda en línea sólo la tienen algunas opciones, más precisamente las que aparecen en en el listado
+de las opciones de la ayuda.
+
+j_quintero_paz@hotmail.com
+j_rol2003@yahoo.com.ar
+
+José Rolando Quintero Paz
+La Rioja - Argentina
+
